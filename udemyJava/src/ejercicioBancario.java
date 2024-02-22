@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//referencia
 public class ejercicioBancario {
     public static void main(String[] args) {
     //leerCredito
